@@ -1,2 +1,1 @@
-# API-Redsquare
-API du Projet Redquare
+# prj-redsquare
